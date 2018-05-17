@@ -4,7 +4,8 @@ Created on Thu May 17 13:14:01 2018
 
 @author: Guido Muscioni
 
-Description: 
+Description: Complex model with network inference evaluation
+Working on individual label. Network inference has been already performed, the data contains the networks features
 """
 
 import pandas as pd
