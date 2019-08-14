@@ -4,7 +4,7 @@ This is part of the framework for behavior identification published and presente
 
 Link to the published paper: https://sites.google.com/usc.edu/kdd19-dmaic-workshop/accepted-papers
 
-# Dataset Structural Characteristics
+# Individual Dataset Structural Characteristics
 
 ## Label encoding
 
