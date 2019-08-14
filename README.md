@@ -1,4 +1,5 @@
 # Introduction
+
 This is part of the framework for behavior identification published and presented at KDD19. The code include a sample of data and the related time window scores (comparing different classifiers). We will also publish the entire feature extraction process from the raw time series (aggregation and temporal features) as well as the network inference process for the group classification.
 
 Link to the published paper: https://sites.google.com/usc.edu/kdd19-dmaic-workshop/accepted-papers
