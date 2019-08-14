@@ -6,11 +6,15 @@ Link to the published paper: https://sites.google.com/usc.edu/kdd19-dmaic-worksh
 
 # Dataset Structural Characteristics
 
-label encoding
+## Label encoding
+
+```
 {'Feeding': 0, 'Running': 1, 'Sitting': 2, 'Standing at rest': 3, 'Walking': 4}
+```
 
-Class Balance
+## Class Balance
 
+```
 Day: 0808
 3.0    4976
 1.0    4366
@@ -71,9 +75,11 @@ Day: 0829
 2.0     508
 0.0      23
 Name: G_LABEL, dtype: int64
+```
 
-Normalized:
+### Normalized:
 
+```
 Day: 0808
 3.0    0.445160
 1.0    0.390589
@@ -134,3 +140,4 @@ Day: 0829
 2.0    0.060133
 0.0    0.002723
 Name: G_LABEL, dtype: float64
+```
